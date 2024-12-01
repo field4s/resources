@@ -4,10 +4,10 @@
 <svg
    version="1.1"
    id="svg1"
-   width="850"
-   height="850"
-   viewBox="0 0 850 850"
-   sodipodi:docname="field4s-logo-rounded.svg"
+   width="2343.9888"
+   height="850.00616"
+   viewBox="0 0 2343.9888 850.00616"
+   sodipodi:docname="field4s-logo-rounded-text.svg"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    inkscape:export-filename="field4s-logo-rounded.png"
    inkscape:export-xdpi="600"
@@ -46,9 +46,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showguides="true"
-     inkscape:zoom="0.46906639"
-     inkscape:cx="-174.81534"
-     inkscape:cy="540.43523"
+     inkscape:zoom="0.23038975"
+     inkscape:cx="855.07278"
+     inkscape:cy="366.7698"
      inkscape:window-width="1920"
      inkscape:window-height="1128"
      inkscape:window-x="0"
@@ -60,9 +60,9 @@
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g1"
-     transform="translate(-31.759125,-10.991192)">
+     transform="translate(-31.756124,-10.988169)">
     <path
-       style="fill:#ebebeb;stroke-width:7;fill-opacity:1"
+       style="fill:#ebebeb;fill-opacity:1;stroke-width:7"
        id="rect1"
        width="850"
        height="850"
@@ -446,5 +446,15 @@
          x="347.01953"
          y="471.0434"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;font-family:'Neon Bright';-inkscape-font-specification:'Neon Bright, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none">F4S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0.9;font-family:'Neon Bright';-inkscape-font-specification:'Neon Bright, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#191919;fill-opacity:1;stroke-width:7"
+       x="942.16681"
+       y="567.24121"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="942.16681"
+         y="567.24121">field4s</tspan></text>
   </g>
 </svg>
