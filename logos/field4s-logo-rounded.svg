@@ -7,9 +7,9 @@
    width="850"
    height="850"
    viewBox="0 0 850 850"
-   sodipodi:docname="field4s-logo.svg"
+   sodipodi:docname="field4s-logo-rounded.svg"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
-   inkscape:export-filename="field4s-logo.png"
+   inkscape:export-filename="field4s-logo-rounded.pdf"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -17,7 +17,25 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1" />
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,425,0,1 @ F,0,0,1,0,428.25418,0,1 @ F,0,0,1,0,425,0,1 @ F,0,0,1,0,428.20008,0,1"
+       radius="400"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
@@ -28,21 +46,31 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showguides="true"
-     inkscape:zoom="0.5983632"
-     inkscape:cx="315.86167"
-     inkscape:cy="410.28593"
+     inkscape:zoom="0.46906639"
+     inkscape:cx="-174.81534"
+     inkscape:cy="540.43523"
      inkscape:window-width="1920"
      inkscape:window-height="1128"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="g1"
-     inkscape:export-bgcolor="#ffffffff" />
+     inkscape:export-bgcolor="#ffffff00" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g1"
      transform="translate(-31.759125,-10.991192)">
+    <path
+       style="fill:#ebebeb;stroke-width:7;fill-opacity:1"
+       id="rect1"
+       width="850"
+       height="850"
+       x="31.759125"
+       y="10.991192"
+       inkscape:path-effect="#path-effect1"
+       sodipodi:type="rect"
+       d="m 456.75912,10.991192 a 426.63019,426.63019 45.218516 0 1 425,428.254178 423.37604,423.37604 135.2202 0 1 -425,421.74582 A 426.60304,426.60304 45.214897 0 1 31.759125,432.79111 423.40298,423.40298 135.21652 0 1 456.75912,10.991192 Z" />
     <g
        id="g13"
        transform="translate(36.022295,40.169492)">
